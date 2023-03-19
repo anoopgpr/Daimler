@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017963034835",
+    "project_id": "bharatbenz-79350",
+    "storage_bucket": "bharatbenz-79350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017963034835:android:052f394495bfa3d04ffc26",
+        "android_client_info": {
+          "package_name": "com.mobiquest.daimlertrucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017963034835-pmvn273pn80gm5f5649sbjbffdbajq46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-e4OroAO4JXTRgN9apenhWJTvdmFuawM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017963034835-pmvn273pn80gm5f5649sbjbffdbajq46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
